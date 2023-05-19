@@ -1,0 +1,10 @@
+django
+gunicorn
+asgiref
+django-cors-headers
+djangorestframework
+pytz
+sqlparse
+whitenoise
+django_heroku
+
